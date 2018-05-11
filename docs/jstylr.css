@@ -1,0 +1,118 @@
+      body  {
+    
+    margin:0px;
+   padding: 0px;
+}
+.bgimage{ 
+    
+     background: size 100% 100%;
+     widows: 100%;
+     height: 100%;
+
+ }
+ .menu4{
+     width: 100%;
+     height: 100px;
+     background-color:rgba(91, 92, 84, 0.4);
+ }
+   .leftmenu{
+       width: 26%;
+       line-height: 100px;
+       float: left;
+   }
+   .menu4 h5{
+   padding-left: 70px;
+   font-weight: bold;
+   color: rgb(221, 174, 243);
+   font-size: 22px;
+   font-family: 'Trebuchet MS';
+   margin-top: 10px;
+   }
+   .text{
+      width: 75%;
+      height: 100px;
+      float: right;
+      
+
+   }
+   .menu4 ul{
+       margin-left: 200px;
+   }
+   .menu4 ul li{
+       font-family: cursive;
+       display: inline-block;
+       list-style: none;
+       font-size: 20px;
+       color: rgb(238, 140, 12);
+       font-weight: bold;
+       line-height: 100px;
+       margin-left: 40px;
+   }
+   #first{
+       color: rgb(248, 185, 101);
+   }
+   .menu4 ul li:hover{
+       color: rgb(224, 196, 250);
+   }
+   .text{
+       width: 100%;
+       margin-top: 110px;
+       text-transform: uppercase;
+       text-align: center;
+       color: rgb(250, 223, 232);
+   }
+   .text h4{
+       font-size: 15px;
+   }
+   .text h1{
+       font-size: 60px;
+       margin: 10px 0px;
+   }
+   .tex h3{
+       font-size: 12px;
+   }
+   #button1{
+       background-color: rgb(236, 154, 30);
+       border: none;
+       font-size: 20px;
+       font-weight: bold;
+       text-transform: uppercase;
+       line-height: 40px;
+       width: 150px;
+       margin-top: 25px;
+       border: 3px solid  rgb(243, 189, 71);
+       color: rgb(245, 81, 31);
+   }
+   #button2{
+   background-color: transparent;
+   border: none;
+   text-transform: uppercase;
+   font-weight: bold;
+   line-height: 40px;
+   border: 3px solid  rgb(250, 185, 63);
+   width: 139px;
+   font-size: 20px;
+   color: rgb(214, 247, 236);
+   }
+.social-bar{
+    width: 20%;
+    float: left;
+    text-align: center;
+}
+.facebook-button{
+    width: 20%;
+    float: left;
+
+}
+.plus-button{
+    width: 20%;
+    float: left;
+}
+.twiter-button{
+    width: 20%;
+    float: left;
+}
+.linksin-button{
+    width: 20%;
+    float: left;
+}
