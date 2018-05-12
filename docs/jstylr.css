@@ -23,8 +23,8 @@
    .menu4 h5{
    padding-left: 70px;
    font-weight: bold;
-   color: rgb(221, 174, 243);
-   font-size: 22px;
+   color: rgb(170, 226, 14);
+   font-size: 70px;
    font-family: 'Trebuchet MS';
    margin-top: 10px;
    }
@@ -43,23 +43,23 @@
        display: inline-block;
        list-style: none;
        font-size: 20px;
-       color: rgb(238, 140, 12);
+       color: rgb(194, 243, 115);
        font-weight: bold;
        line-height: 100px;
        margin-left: 40px;
    }
    #first{
-       color: rgb(248, 185, 101);
+       color: rgb(27, 209, 255);
    }
    .menu4 ul li:hover{
-       color: rgb(224, 196, 250);
+       color: rgb(122, 16, 221);
    }
    .text{
        width: 100%;
        margin-top: 110px;
        text-transform: uppercase;
        text-align: center;
-       color: rgb(250, 223, 232);
+       color: rgb(236, 43, 43);
    }
    .text h4{
        font-size: 15px;
@@ -69,10 +69,10 @@
        margin: 10px 0px;
    }
    .tex h3{
-       font-size: 12px;
+       font-size: 20px;
    }
    #button1{
-       background-color: rgb(236, 154, 30);
+       background-color: rgb(197, 247, 132);
        border: none;
        font-size: 20px;
        font-weight: bold;
@@ -80,8 +80,8 @@
        line-height: 40px;
        width: 150px;
        margin-top: 25px;
-       border: 3px solid  rgb(243, 189, 71);
-       color: rgb(245, 81, 31);
+       border: 3px solid  rgb(240, 81, 8);
+       color: rgb(241, 7, 7);
    }
    #button2{
    background-color: transparent;
@@ -89,10 +89,10 @@
    text-transform: uppercase;
    font-weight: bold;
    line-height: 40px;
-   border: 3px solid  rgb(250, 185, 63);
+   border: 3px solid  rgb(141, 252, 37);
    width: 139px;
    font-size: 20px;
-   color: rgb(214, 247, 236);
+   color: rgb(122, 241, 202);
    }
 .social-bar{
     width: 20%;
